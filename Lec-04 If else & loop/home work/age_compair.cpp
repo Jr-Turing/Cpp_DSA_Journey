@@ -1,0 +1,1 @@
+// If a person age above 18 than print Adult otherwise teenagers
