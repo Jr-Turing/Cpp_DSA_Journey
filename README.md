@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-Cpp
+# Cpp_DSA_Journey
 # Coder Army Tracker
 > All in One, One Stop Tracker
 
