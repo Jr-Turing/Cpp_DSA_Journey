@@ -1,0 +1,22 @@
+Today's Topic covered: 
+"Introduction ot Programming"
+1. Evolution of number system from ancient to modern.
+2. TALLY system.
+3. Invention of COMPUTERS.
+4. Invention of TRANSISTORS.
+5. Developement of Binary Number System.
+6. How to do Conversion.
+    a. Binary   
+    b. Decimal 
+    c. Octal 
+    d. Hexadecimal
+7. Computer System
+8. Uses of TRANSISTORS
+9. MOORAY LAW (1965)
+   -> It State that every two years capacity of trannsistor is doubles.
+10. Programming :-
+    In terms of Speed
+    MACHINE LEVEL >> ASSEMBLY >> HIGH LEVEL LANGUAGES
+11. Introduction of Internet
+12. Sum of 100 natural numbers. 
+comparison between Guddu Bhaiya & Bablu Bhaiya
